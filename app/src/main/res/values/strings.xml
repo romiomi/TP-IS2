@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyPimes</string>
+    <string name="seleccion_cliente">Seleccion del Cliente</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="levantar_pedido">Levantar Pedido</string>
+    <string name="lista_clientes">Lista Clientes</string>
+    <string name="GenreText">Género</string>
+    <string name="ArtistText">Artista</string>
+    <string name="LyricList">Direccion del Cliente</string>
+    <string name="pedidos_cliente">Pedidos del Cliente</string>
+    <string name="seleccionar_producto">Seleccionar Producto</string>
+    <string name="precio_producto">Precio Producto</string>
+    <string name="cantidad_producto">Cantidad</string>
+    <string name="total_compra">Total Compra</string>
+    <string name="registrar_pedido">Registrar Pedido</string>
+    <string name="Lista_Pedidos">Lista de Pedidos</string>
+    <string name="atras">Atras</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="cliente">Cliente</string>
+    <string name="producto_list">Producto Pedido</string>
+    <string name="precio_list">Precio Producto</string>
+    <string name="cantidad_list">Cantidad Pedida</string>
+    <string name="monto_list">Monto Pedido</string>
+    <string name="finalizar_app">Finalizar App</string>
+    <string-array name="CantidadSeleccion">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
